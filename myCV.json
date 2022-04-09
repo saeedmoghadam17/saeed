@@ -79,6 +79,7 @@
         "degree": "Master of science in IT",
         "startDate": "2013-09-01",
         "endDate": "2015-09-01",
+        "study":"Taking up electives in cybersecurity"
         "gpa": "18.5"
       
       },
@@ -88,6 +89,7 @@
         "degree": "Bachelor of science in IT",
         "startDate": "2007-09-01",
         "endDate": "2011-09-01",
+        "study":"Taking up electives insoftware engineering and information technology"
         "gpa": "16.5"
       
       }
