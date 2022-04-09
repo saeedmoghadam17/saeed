@@ -1,0 +1,110 @@
+{
+    "basics": {
+      "name": "Saeed Moghadam",
+      "label": "Senior Software Developer",
+      "picture": "https://raw.githubusercontent.com/saeedmoghadam17/saeed/9ed3744a3b983f29b62d00a0f8945ac4f70ffad2/mypic.jpg",
+      "email": "saeed.moghadam.17@gmail.com",
+      "phone": "(226)962-7711",
+      "degree": "Master of science in IT",
+      "website": "Linkedin/profile Link",
+      "summary": "I am a self-taught andself-motivated softwaredeveloper with 10+years of experience indesigning, developing,testing, and maintainingfinancial marketssoftware with a largenumber of requests perday as well as complexbusiness domains byusing new technologiesand architecture.",
+      "location": {
+        "address": "300 REgina St.N",
+        "postalCode": "N2J 3B8",
+        "city": "Waterloo",
+        "countryCode": "Canada",
+        "region": "Ontario"
+      },
+      "profiles": [
+        {
+          "network": "Linkedin",
+          "url": "https://www.linkedin.com/in/saeed-moghadam-51591087/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Tadbir Pardaz",
+        "position": "Software Developer",
+        "website": "https://www.etadbir.com/",
+        "startDate": "2018-04-01",
+        "endDate": "",
+        "summary": ["Design and implement news solutions for asset management as backend developer as well as asparticipate in the development of the frontend",
+                    "Refactor, extend, test, andmaintain legacy portfoliomanagement system as fullstack developer by using: C#,Asp.Net MVC, EF, ADO.Net,SQL Server, SpeckFlow"
+        ]
+      },
+      {
+        "company": "Mofid Securities",
+        "position": "Software Developer",
+        "website": "https://www.emofid.com/",
+        "startDate": "2016-03-01",
+        "endDate": "2018-04-01",
+        "summary": ["Design and implementmutual fund system asbackend developer as well asparticipate in thedevelopment of frontend byusing: Java, Spring Boot,Hibernate, Gradle, Bitbucket,Docker, My SQL, ElasticSearch, Kafka, Vue.js,Cucumber",
+                    "Develop, extend, test, andmaintain mutual fund andportfolio managementsystem as full stackdeveloper by using: C#,Asp.Net MVC, Asp.NetWebForm, ADO.NET, SQLServer, TFS, Jquery, SpeckFlow" 
+        ]  
+      },
+      {
+        "company":"Tadbir Pardaz",
+        "position": "Junior software engineer engineer",
+        "website": "https://www.etadbir.com/",
+        "startDate": "2011-05-01",
+        "endDate": "2016-03-01",
+        "summary": ["Develop, extend, test, andmaintain mutual fund andportfolio managementsystem as full stackdeveloper by using: C#,Asp.Net MVC, Asp.NetWebForm, ADO.NET, SQLServer, TFS, Jquery, SpeckFlow.",
+                    "Refactor, extend, test, andmaintain legacy portfoliomanagement system as fullstack developer by using: C#,Asp.Net MVC, EF, ADO.Net,SQL Server, SpeckFlow"
+
+        ]
+      }
+    ],
+   "References":[
+       {
+    "name": "Kazem Mohammadi",
+    "position": "Line manager",
+    "company":"Tadbir Pardaz",
+    "phone": "+98(912)561-4563",
+    "summary": "Kazem was my supervisor for two years and can attest to my technical expertise and interpersonal skills"
+    
+        },
+      {
+        "name": "Peyman Babaei",
+        "position": "Project Manager",
+        "company":"Mofid Securities",
+        "phone": "+98(912)651-3623",
+        "summary": "I completed a project under his supervission, so he is totally familar with my personal and professional character"
+        }
+   ],
+
+    "education": [
+      {
+        "institution": "Azad University of Garmsar",
+        "degree": "Master of science in IT",
+        "study": "Taking up electives insoftware engineering and information technology",
+        "startDate": "2013-09-01",
+        "endDate": "2015-09-01",
+        "gpa": "18.5"
+      
+      },
+      
+      {
+        "institution": "Shahrood University",
+        "degree": "Bachelor of science in IT",
+        "study": "Taking up electives in cybersecurity",
+        "startDate": "2007-09-01",
+        "endDate": "2011-09-01",
+        "gpa": "16.5"
+      
+      }
+
+    ],
+  
+    "skills": 
+    {
+      "label1": "Coding Languages",
+      "label2": "Frameworks",
+      "label3": "Databases",
+        "Coding Languages":["C#", "Java", "JavaScript"],
+        "Frameworks":["ASP.NET MVC", "ASP.NET Web Forms", "ASP.NET Web API","Entity Framework Spring Boot", "Hibernate"],
+        "DataBase":["SQL Server", "My SQL", "Mongo DB"]
+    }
+   
+    
+  }
