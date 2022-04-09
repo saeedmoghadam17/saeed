@@ -98,8 +98,11 @@
   
     "skills": 
     {
-        "Coding Languages":["C#", "Java", "JavaScript"],
+        "label1": "Coding Languages",
+        "CodingLanguages":["C#", "Java", "JavaScript"],
+        "label2": "Frameworks",
         "Frameworks":["ASP.NET MVC", "ASP.NET Web Forms", "ASP.NET Web API","Entity Framework Spring Boot", "Hibernate"],
+        "label3": "DataBases",
         "DataBase":["SQL Server", "My SQL", "Mongo DB"]
     }
    
