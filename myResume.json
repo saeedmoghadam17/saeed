@@ -22,7 +22,10 @@
         }
       ]
     },
-    "work": [
+    "work": {
+        "label":"Work Experience",
+    
+    [
       {
         "company": "Tadbir Pardaz",
         "position": "Software Developer",
@@ -54,8 +57,10 @@
 
         ]
       }
-    ],
-   "References":[
+    ]},
+   "References":{
+    "label":"References",
+    [
        {
     "name": "Kazem Mohammadi",
     "position": "Line manager",
@@ -71,9 +76,12 @@
         "phone": "+98(912)651-3623",
         "summary": "I completed a project under his supervission, so he is totally familar with my personal and professional character"
         }
-   ],
+   ]
+   },
 
-    "education": [
+    "education":{
+        "label":"Education",
+    [
       {
         "institution": "Azad University of Garmsar",
         "degree": "Master of science in IT",
@@ -94,10 +102,11 @@
       
       }
 
-    ],
+    ]},
   
-    "skills": 
+    "skills":
     {
+        "label":"Skills",
         "label1": "Coding Languages",
         "CodingLanguages":["C#", "Java", "JavaScript"],
         "label2": "Frameworks",
