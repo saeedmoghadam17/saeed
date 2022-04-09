@@ -24,8 +24,7 @@
     },
     "work": {
         "label":"Work Experience",
-    
-    [
+     "experience":[
       {
         "company": "Tadbir Pardaz",
         "position": "Software Developer",
@@ -57,10 +56,11 @@
 
         ]
       }
-    ]},
+    ]
+       },
    "References":{
     "label":"References",
-    [
+    "reference":[
        {
     "name": "Kazem Mohammadi",
     "position": "Line manager",
@@ -81,8 +81,8 @@
 
     "education":{
         "label":"Education",
-    [
-      {
+        "educate":[
+        {
         "institution": "Azad University of Garmsar",
         "degree": "Master of science in IT",
         "study": "Taking up electives insoftware engineering and information technology",
