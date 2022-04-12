@@ -1,0 +1,160 @@
+{
+    "CourseName": "Web Technologies",
+    "Semester": "Winter 2022",
+    "Professor":"Nicolas Pena Moreno",
+    "Department": "Applied physics Computer-Waterloo",
+    
+    
+    "students": [
+        {
+            "name": "Ram",
+            "family": "sharma",
+            "student id": "8799300",
+            "nationality": "India",
+            "grades": [
+                {
+                    "assignments": "A",
+                    "projects": "A",
+                    "midtermExam": "A",
+                    "final Exam": "A"
+                }
+            ],
+            "Finalmark": "A"
+        },
+        {
+            "name": "Alex",
+            "family": "Smith",
+            "student id": "8799301",
+            "nationality": "Canada",
+            "grades": [
+                {
+                    "assignments": "B",
+                    "projects": "B",
+                    "midtermExam": "B",
+                    "final Exam": "B"
+                }
+            ],
+            "Finalmark": "B"
+        },
+        {
+            "name": "saeed",
+            "family": "moghadam",
+            "student id": "8799302",
+            "nationality": "Iran",
+            "grades": [
+                {
+                    "assignments": "A",
+                    "projects": "A",
+                    "midtermExam": "A",
+                    "final Exam": "A"
+                }
+            ],
+            "Finalmark": "A"
+        },
+        {
+            "name": "Siri",
+            "family": "singh",
+            "student id": "8799303",
+            "nationality": "India",
+            "grades": [
+                {
+                    "assignments": "B",
+                    "projects": "B",
+                    "midtermExam": "B",
+                    "final Exam": "B"
+                }
+            ],
+            "Finalmark": "B"
+        },
+        {
+            "name": "Jacob",
+            "family": "Martin",
+            "student id": "8799304",
+            "nationality": "Canada",
+            "grades": [
+                {
+                    "assignments": "A",
+                    "projects": "B",
+                    "midtermExam": "C",
+                    "final Exam": "D"
+                }
+            ],
+            "Finalmark": "C"
+        },
+        {
+            "name": "Lisa",
+            "family": "Brown",
+            "student id": "8799305",
+            "nationality": "Canada",
+            "grades": [
+                {
+                    "assignments": "A",
+                    "projects": "B",
+                    "midtermExam": "C",
+                    "final Exam": "D"
+                }
+            ],
+            "Finalmark": "C"
+        },
+        {
+            "name": "Anita",
+            "family": "Amanjot",
+            "student id": "8799306",
+            "nationality": "India",
+            "grades": [
+                {
+                    "assignments": "D",
+                    "projects": "D",
+                    "midtermExam": "C",
+                    "final Exam": "C"
+                }
+            ],
+            "Finalmark": "D"
+        },
+        {
+            "name": "Kirt",
+            "family": "khan",
+            "student id": "8799307",
+            "nationality": "India",
+            "grades": [
+                {
+                    "assignments": "A",
+                    "projects": "A",
+                    "midtermExam": "C",
+                    "final Exam": "C"
+                }
+            ],
+            "Finalmark": "B"
+        },
+        {
+            "name": "Juan",
+            "family": "Carlos",
+            "student id": "8799308",
+            "nationality": "Colombia",
+            "grades": [
+                {
+                    "assignments": "B",
+                    "projects": "C",
+                    "midtermExam": "C",
+                    "final Exam": "A"
+                }
+            ],
+            "Finalmark": "C"
+        },
+        {
+            "name": "Raj",
+            "family": "kapour",
+            "student id": "8799309",
+            "nationality": "India",
+            "grades": [
+                {
+                    "assignments": "A",
+                    "projects": "A",
+                    "midtermExam": "B",
+                    "final Exam": "B"
+                }
+            ],
+            "Finalmark": "B"
+        }
+    ]
+}
