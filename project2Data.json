@@ -16,7 +16,7 @@
                     "assignments": "A",
                     "projects": "A",
                     "midtermExam": "A",
-                    "final Exam": "A"
+                    "finalExam": "A"
                 }
             ],
             "Finalmark": "A"
@@ -31,7 +31,7 @@
                     "assignments": "B",
                     "projects": "B",
                     "midtermExam": "B",
-                    "final Exam": "B"
+                    "finalExam": "B"
                 }
             ],
             "Finalmark": "B"
@@ -46,7 +46,7 @@
                     "assignments": "A",
                     "projects": "A",
                     "midtermExam": "A",
-                    "final Exam": "A"
+                    "finalExam": "A"
                 }
             ],
             "Finalmark": "A"
@@ -61,7 +61,7 @@
                     "assignments": "B",
                     "projects": "B",
                     "midtermExam": "B",
-                    "final Exam": "B"
+                    "finalExam": "B"
                 }
             ],
             "Finalmark": "B"
@@ -76,7 +76,7 @@
                     "assignments": "A",
                     "projects": "B",
                     "midtermExam": "C",
-                    "final Exam": "D"
+                    "finalExam": "D"
                 }
             ],
             "Finalmark": "C"
@@ -91,7 +91,7 @@
                     "assignments": "A",
                     "projects": "B",
                     "midtermExam": "C",
-                    "final Exam": "D"
+                    "finalExam": "D"
                 }
             ],
             "Finalmark": "C"
@@ -106,7 +106,7 @@
                     "assignments": "D",
                     "projects": "D",
                     "midtermExam": "C",
-                    "final Exam": "C"
+                    "finalExam": "C"
                 }
             ],
             "Finalmark": "D"
@@ -121,7 +121,7 @@
                     "assignments": "A",
                     "projects": "A",
                     "midtermExam": "C",
-                    "final Exam": "C"
+                    "finalExam": "C"
                 }
             ],
             "Finalmark": "B"
@@ -136,7 +136,7 @@
                     "assignments": "B",
                     "projects": "C",
                     "midtermExam": "C",
-                    "final Exam": "A"
+                    "finalExam": "A"
                 }
             ],
             "Finalmark": "C"
@@ -151,7 +151,7 @@
                     "assignments": "A",
                     "projects": "A",
                     "midtermExam": "B",
-                    "final Exam": "B"
+                    "finalExam": "B"
                 }
             ],
             "Finalmark": "B"
