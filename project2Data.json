@@ -3,7 +3,17 @@
     "Semester": "Winter 2022",
     "Professor":"Nicolas Pena Moreno",
     "Department": "Applied physics Computer-Waterloo",
-    
+    "courseAVG10":
+        {
+            "2015":"80",
+            "2016":"85",
+            "2017":"75",
+            "2018":"90",
+            "2019":"85",
+            "2020":"95",
+            "2021":"90",
+            "2022":"90"
+        },
     
     "students": [
         {
